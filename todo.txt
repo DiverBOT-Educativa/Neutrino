@@ -1,0 +1,7 @@
+[*] Encontrar la ubicación de la ISS
+[ ] Leer el magnetómetro [Yeray]
+[*] Calcular el campo magnético esperado con ecuaciones
+[ ] Comparar ambos campos magnéticos (Esperado vs Real)
+[ ] Alerta a astronautas por pantalla de AstroPi
+[ ] Mostrar gráficamente el campo mágnetico
+[ ] Mantener experimento durante tres horas (https://projects.raspberrypi.org/en/projects/code-for-your-astro-pi-mission-space-lab-experiment/7)
